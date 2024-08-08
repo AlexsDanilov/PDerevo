@@ -1,5 +1,11 @@
 {
   "dependencies": {
+    "com.gorila.presentation": {
+      "version": "file:A:/Работа/Полезные программы/com.gorila.presentation_1_1_0",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {}
+    },
     "com.unity.2d.animation": {
       "version": "10.1.2",
       "depth": 1,
